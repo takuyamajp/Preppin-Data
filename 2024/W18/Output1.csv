@@ -1,0 +1,327 @@
+﻿Wildlife,Name,Habitat,Status,Class,Region
+Animal,African Penguin,Oceans and Coastline,Endangered,Birds,Africa
+Animal,African Pygmy Falcon,Savanna,Stable,Birds,Africa
+Animal,African Pygmy Goose,Rivers and Lakes,Stable,Birds,Africa
+Animal,African Spurred Tortoise,"Desert, Savanna",Threatened,Reptiles,Africa
+Animal,Agouti,Tropical Rainforest,Some Endangered,Mammals,"Central America, South America"
+Animal,American Kestrel,"Desert, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Scrubland",Stable,Birds,"Central America, North America, South America"
+Animal,Anaconda,"Tropical Rainforest, Wetlands",Some Threatened,Reptiles,South America
+Animal,Andean (Spectacled) Bear,"Prairie and Steppes, Temperate Forest and Taiga",Threatened,Mammals,South America
+Animal,Andean Condor,"Mountains, Prairie and Steppes, Temperate Forest and Taiga, Tundra",Some Threatened,Birds,South America
+Animal,Ant,"Desert, Island, Mountains, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Stable,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, North America, South America"
+Animal,Antelope,"Desert, Mountains, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Some Endangered,Mammals,"Africa, Asia"
+Animal,Armadillo,"Prairie and Steppes, Savanna, Wetlands",Some Threatened,Mammals,"Central America, North America, South America"
+Animal,Australian Brush-turkey,"Scrubland, Tropical Rainforest",Stable,Birds,Australia and New Zealand
+Animal,Axolotl,Rivers and Lakes,Endangered,Amphibians,North America
+Animal,Babirusa,"Tropical Rainforest, Wetlands",Threatened,Mammals,Asia
+Animal,Bald Eagle,"Oceans and Coastline, Rivers and Lakes, Wetlands",Threatened,Birds,North America
+Animal,Bali Myna,"Savanna, Wetlands",Endangered,Birds,Pacific Islands
+Animal,Banded Archer Fish,Rivers and Lakes,Stable,Ray-finned fishes,Australia and New Zealand
+Animal,Bat,"Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Some Endangered,Mammals,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Bat-eared Fox,Savanna,Stable,Mammals,Africa
+Animal,Beautiful Sunbird,"Rivers and Lakes, Savanna, Wetlands",Stable,Birds,Africa
+Animal,Bee,"Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Bee-eater,Savanna,Stable,Birds,Africa
+Animal,Beetle,"Desert, Island, Mountains, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Some Threatened,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Binturong,Tropical Rainforest,Some Endangered,Mammals,Asia
+Animal,Bird of Paradise (Bird),"Savanna, Temperate Forest and Taiga, Tropical Rainforest",Some Threatened,Birds,Australia and New Zealand
+Animal,Boa,"Island, Rivers and Lakes, Savanna, Tropical Rainforest, Wetlands",Some Endangered,Reptiles,"Africa, Asia, Caribbean, Central America, North America, Pacific Islands, South America"
+Animal,Bonobo,Tropical Rainforest,Endangered,Mammals,Africa
+Animal,Bontebok,Oceans and Coastline,Some Threatened,Mammals,Africa
+Animal,Bowerbird,Tropical Rainforest,Some Threatened,Birds,Australia and New Zealand
+Animal,Brown Bear,"Desert, Mountains, Prairie and Steppes, Rivers and Lakes, Temperate Forest and Taiga, Tundra",Stable,Mammals,"Africa, Asia, Europe, Middle East, North America"
+Animal,Burrowing Owl,Prairie and Steppes,Some Endangered,Birds,"Central America, North America, South America"
+Animal,"Butterfly, Moth, and Skipper","Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Some Endangered,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Caecilian,"Rivers and Lakes, Tropical Rainforest",Some Endangered,Amphibians,"Africa, Asia, Central America, South America"
+Animal,California Condor,"Mountains, Oceans and Coastline, Scrubland",Endangered,Birds,North America
+Animal,Camel,"Desert, Prairie and Steppes",Some Endangered,Mammals,Asia
+Animal,Capybara,"Rivers and Lakes, Wetlands",Some Threatened,Mammals,"Central America, South America"
+Animal,Caracal,"Desert, Savanna, Scrubland",Some Threatened,Mammals,"Africa, Middle East"
+Animal,Cassowary,"Tropical Rainforest, Wetlands",Stable,Birds,Australia and New Zealand
+Animal,Chameleon,"Desert, Prairie and Steppes, Savanna, Tropical Rainforest",Some Endangered,Reptiles,"Africa, Asia, Europe, Middle East, Pacific Islands"
+Animal,Cheetah,Savanna,Threatened,Mammals,"Africa, Middle East"
+Animal,Chimpanzee,Tropical Rainforest,Endangered,Mammals,Africa
+Animal,Chinchilla,Mountains,Endangered,Mammals,South America
+Animal,Chinese Giant Salamander,Rivers and Lakes,Endangered,Amphibians,Asia
+Animal,Cichlid,Rivers and Lakes,Some Endangered,Ray-finned fishes,"Africa, Asia, Central America, South America"
+Animal,Clouded Leopard,"Scrubland, Tropical Rainforest, Wetlands",Threatened,Mammals,Asia
+Animal,Coati,"Mountains, Tropical Rainforest, Wetlands",Some Threatened,Mammals,"North America, South America"
+Animal,Cobra,"Prairie and Steppes, Savanna",Some Threatened,Reptiles,"Africa, Asia"
+Animal,Cock-of-the-rock,"Mountains, Tropical Rainforest",Stable,Birds,South America
+Animal,Cockatoo,"Scrubland, Tropical Rainforest",Some Endangered,Birds,"Australia and New Zealand, Pacific Islands"
+Animal,Coquerel's Sifaka,Tropical Rainforest,Endangered,Mammals,Africa
+Animal,Crane,"Rivers and Lakes, Wetlands",Some Endangered,Birds,"Africa, Asia, Australia and New Zealand, Europe, North America"
+Animal,Crocodilian,Wetlands,Some Endangered,Reptiles,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Middle East, North America, Pacific Islands, South America"
+Animal,Crowned Eagle,"Mountains, Prairie and Steppes, Tropical Rainforest",Some Threatened,Birds,Africa
+Animal,Desert Tortoise,"Desert, Scrubland",Threatened,Reptiles,North America
+Animal,Dhole,"Mountains, Prairie and Steppes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Endangered,Mammals,Asia
+Animal,Dragonfly and Damselfly,Rivers and Lakes,Stable,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Dung Beetle,"Desert, Prairie and Steppes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Stable,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Dwarf Mongoose,Savanna,Stable,Mammals,Africa
+Animal,Echidna,"Desert, Scrubland",Endangered,Mammals,Australia and New Zealand
+Animal,Elephant,"Savanna, Temperate Forest and Taiga, Tropical Rainforest",Endangered,Mammals,"Africa, Asia"
+Animal,Emu,"Prairie and Steppes, Scrubland",Stable,Birds,"Australia and New Zealand, Pacific Islands"
+Animal,Fennec Fox,Desert,Stable,Mammals,Africa
+Animal,Fischer's Lovebird,"Savanna, Scrubland",Some Threatened,Birds,Africa
+Animal,Fishing Cat,"Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Threatened,Mammals,Asia
+Animal,Flamingo,Rivers and Lakes,Some Threatened,Birds,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Fossa,"Temperate Forest and Taiga, Tropical Rainforest",Threatened,Mammals,Africa
+Animal,Frog and Toad,"Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Amphibians,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Galápagos Tortoise,Island,Endangered,Reptiles,South America
+Animal,Gelada,Mountains,Some Threatened,Mammals,Africa
+Animal,Giant African Millipede,Tropical Rainforest,Stable,Millipedes,Africa
+Animal,Giant Anteater,"Prairie and Steppes, Savanna, Temperate Forest and Taiga, Tropical Rainforest",Threatened,Mammals,"Central America, South America"
+Animal,Giant Panda,Temperate Forest and Taiga,Threatened,Mammals,Asia
+Animal,Gila Monster,Desert,Threatened,Reptiles,North America
+Animal,Giraffe,Savanna,Some Endangered,Mammals,Africa
+Animal,Goat and Sheep,"Desert, Mountains, Tundra",Some Endangered,Mammals,"Africa, Asia, Europe, North America"
+Animal,Golden Eagle,"Desert, Mountains, Prairie and Steppes, Scrubland, Tundra",Stable,Birds,"Africa, Asia, Europe, North America"
+Animal,Goliath Frog,"Rivers and Lakes, Tropical Rainforest",Endangered,Amphibians,Africa
+Animal,Gorilla,"Mountains, Tropical Rainforest",Endangered,Mammals,Africa
+Animal,Gouldian Finch,Savanna,Threatened,Birds,Pacific Islands
+Animal,Guam Rail,"Scrubland, Temperate Forest and Taiga, Wetlands",Endangered,Birds,Pacific Islands
+Animal,Guanaco,"Desert, Savanna, Scrubland, Temperate Forest and Taiga",Stable,Mammals,South America
+Animal,Guenon,"Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Mammals,Africa
+Animal,Guinea Pig,"Prairie and Steppes, Rivers and Lakes, Scrubland",Stable,,South America
+Animal,Gundi,"Desert, Prairie and Steppes, Savanna",Some Threatened,Mammals,Africa
+Animal,Hamadryas Baboon,"Desert, Prairie and Steppes, Savanna, Scrubland",Stable,Mammals,"Africa, Middle East"
+Animal,Harpy Eagle,Tropical Rainforest,Threatened,Birds,"Central America, North America, South America"
+Animal,Hedgehog,"Desert, Savanna, Scrubland, Temperate Forest and Taiga",,Mammals,"Africa, Asia, Europe"
+Animal,Hippo,Rivers and Lakes,Threatened,Mammals,Africa
+Animal,Honey Badger (Ratel),"Desert, Mountains, Savanna, Temperate Forest and Taiga",Stable,Mammals,"Africa, Asia, Middle East"
+Animal,Hornbill,"Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Birds,"Africa, Asia"
+Animal,Hummingbird,"Desert, Mountains, Prairie and Steppes, Savanna, Tropical Rainforest",Some Endangered,Birds,"Caribbean, Central America, North America, South America"
+Animal,Ibis,"Oceans and Coastline, Savanna, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Birds,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, North America, Pacific Islands, South America"
+Animal,Iguana,"Desert, Island, Oceans and Coastline, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Reptiles,"Africa, Caribbean, North America, Pacific Islands, South America"
+Animal,Jacana,Wetlands,Some Threatened,Birds,"Asia, Australia and New Zealand, Central America, North America, Pacific Islands, South America"
+Animal,Jaguar,"Desert, Prairie and Steppes, Savanna, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Threatened,Mammals,"Central America, North America, South America"
+Animal,Kagu,"Temperate Forest and Taiga, Tropical Rainforest",Endangered,Birds,Pacific Islands
+Animal,Kangaroo and Wallaby,"Island, Tropical Rainforest",Some Endangered,Mammals,"Australia and New Zealand, Pacific Islands"
+Animal,Kingfisher,"Desert, Island, Oceans and Coastline, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Birds,"Africa, Asia, Australia and New Zealand, Central America, Europe, North America, South America"
+Animal,Kingsnake,"Mountains, Prairie and Steppes, Scrubland, Temperate Forest and Taiga",Some Endangered,Reptiles,"Central America, North America, South America"
+Animal,Kinkajou,"Savanna, Temperate Forest and Taiga, Tropical Rainforest",Stable,Mammals,"Central America, North America, South America"
+Animal,Kiwi,Island,Some Endangered,Birds,Australia and New Zealand
+Animal,Klipspringer,"Mountains, Savanna",Stable,Mammals,Africa
+Animal,Koala,Temperate Forest and Taiga,Threatened,Mammals,Australia and New Zealand
+Animal,Koi,Rivers and Lakes,Stable,Ray-finned fishes,Asia
+Animal,Komodo Dragon,"Island, Savanna, Tropical Rainforest",Endangered,Reptiles,Asia
+Animal,Ladybug,"Mountains, Prairie and Steppes, Savanna, Scrubland, Temperate Forest and Taiga",Stable,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Laughing Kookaburra,Temperate Forest and Taiga,Stable,Birds,Australia and New Zealand
+Animal,Lemur,"Island, Mountains, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Mammals,Africa
+Animal,Leopard,"Desert, Prairie and Steppes, Savanna, Temperate Forest and Taiga",Some Endangered,Mammals,"Africa, Asia"
+Animal,Leopard Gecko,Desert,Stable,Reptiles,Middle East
+Animal,Leopard Shark,Oceans and Coastline,Stable,Chondrichthyes,North America
+Animal,Lion,"Prairie and Steppes, Savanna, Scrubland",Threatened,Mammals,"Africa, Asia"
+Animal,Lizard,"Desert, Island, Mountains, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Reptiles,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Lord Howe Island Stick Insect,Island,Endangered,Insects,Australia and New Zealand
+Animal,Lory and Lorikeet,"Island, Temperate Forest and Taiga",Some Endangered,Birds,"Australia and New Zealand, Pacific Islands"
+Animal,Lynx and Bobcat,"Prairie and Steppes, Scrubland, Temperate Forest and Taiga, Tundra",Some Endangered,Mammals,"Asia, Europe, Middle East, North America"
+Animal,Macaw,"Savanna, Tropical Rainforest",Some Endangered,Birds,"Central America, North America, South America"
+Animal,Magpie Goose,Wetlands,Stable,Birds,Australia and New Zealand
+Animal,Manatee,"Oceans and Coastline, Rivers and Lakes",Some Endangered,Mammals,"Africa, North America, South America"
+Animal,Mandrill,Tropical Rainforest,Threatened,Mammals,Africa
+Animal,Mangabey,"Tropical Rainforest, Wetlands",Some Endangered,Mammals,Africa
+Animal,Mantella,Tropical Rainforest,Some Endangered,Amphibians,Africa
+Animal,Marsupial,"Desert, Savanna, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Mammals,"Australia and New Zealand, Central America, North America, Pacific Islands, South America"
+Animal,Matschie's Tree Kangaroo,"Mountains, Tropical Rainforest",Endangered,Mammals,Australia and New Zealand
+Animal,Meerkat,"Desert, Scrubland",Stable,Mammals,Africa
+Animal,Metallic Starling,"Oceans and Coastline, Tropical Rainforest",Stable,Birds,Australia and New Zealand
+Animal,Monarch Butterfly,"Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Temperate Forest and Taiga",Some Endangered,Insects,"Central America, North America"
+Animal,Monkey,"Island, Mountains, Prairie and Steppes, Savanna, Scrubland, Tropical Rainforest",Some Endangered,Mammals,"Africa, Asia, Central America, North America, South America"
+Animal,"Mountain Lion (Puma, Cougar)","Desert, Prairie and Steppes, Temperate Forest and Taiga, Wetlands",Some Endangered,Mammals,"Central America, North America, South America"
+Animal,Naked Mole-rat,Desert,Stable,Mammals,Africa
+Animal,Nile Lechwe,Wetlands,Endangered,Mammals,Africa
+Animal,Nubian Ibex,"Desert, Mountains",Threatened,Mammals,Middle East
+Animal,Ocelot,"Savanna, Scrubland, Tropical Rainforest",Some Endangered,Mammals,"Central America, North America, South America"
+Animal,Okapi,Tropical Rainforest,Endangered,Mammals,Africa
+Animal,Opossum,"Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Scrubland, Tropical Rainforest, Wetlands",Stable,Mammals,"Central America, North America"
+Animal,Orangutan,Tropical Rainforest,Endangered,Mammals,Asia
+Animal,Oryx,"Desert, Prairie and Steppes, Savanna, Scrubland",Some Endangered,Mammals,"Africa, Middle East"
+Animal,Ostrich,"Desert, Savanna",Some Threatened,Birds,Africa
+Animal,Otter,"Oceans and Coastline, Rivers and Lakes",Some Endangered,Mammals,"Europe, North America"
+Animal,Owl,"Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Some Endangered,Birds,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Painted Dog (African Hunting Dog),"Prairie and Steppes, Savanna",Endangered,Mammals,Africa
+Animal,Panamanian Golden Frog,Tropical Rainforest,Endangered,Amphibians,South America
+Animal,Pancake Tortoise,"Savanna, Scrubland",Endangered,Reptiles,Africa
+Animal,Parrot,"Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Birds,"Africa, Asia, Australia and New Zealand, Central America, North America, South America"
+Animal,Peafowl,Temperate Forest and Taiga,Some Endangered,Birds,Asia
+Animal,Peccary,"Desert, Savanna, Scrubland, Tropical Rainforest, Wetlands",Some Endangered,Mammals,"Central America, North America, South America"
+Animal,Pelican,"Oceans and Coastline, Rivers and Lakes",Some Threatened,Birds,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Platypus,"Rivers and Lakes, Wetlands",Some Threatened,Mammals,Australia and New Zealand
+Animal,Poison Frog,Tropical Rainforest,Some Endangered,Amphibians,"Central America, South America"
+Animal,Polar Bear,"Oceans and Coastline, Tundra",Threatened,Mammals,"Asia, Europe, North America"
+Animal,Porcupine,"Desert, Mountains, Prairie and Steppes, Savanna, Temperate Forest and Taiga, Tropical Rainforest",Threatened,Mammals,"Africa, Asia, Central America, Europe, North America, South America"
+Animal,Prairie Dog,Prairie and Steppes,Some Endangered,Mammals,North America
+Animal,Pronghorn,"Desert, Prairie and Steppes",Some Endangered,Mammals,North America
+Animal,Przewalski's Horse,"Desert, Prairie and Steppes, Savanna",Endangered,Mammals,"Asia, Europe"
+Animal,Pumpkinseed Sunfish,Rivers and Lakes,Stable,Ray-finned fishes,"Europe, North America"
+Animal,Pygmy Hippopotamus,"Rivers and Lakes, Tropical Rainforest, Wetlands",Endangered,Mammals,Africa
+Animal,Pygmy Marmoset,"Rivers and Lakes, Tropical Rainforest",Stable,Mammals,South America
+Animal,Pygmy Slow Loris,Tropical Rainforest,Some Endangered,Mammals,Asia
+Animal,Python,"Desert, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Reptiles,"Africa, Asia, Australia and New Zealand"
+Animal,Quokka,"Island, Rivers and Lakes, Scrubland, Wetlands",Some Endangered,Mammals,Australia and New Zealand
+Animal,Raccoon,"Mountains, Oceans and Coastline, Temperate Forest and Taiga, Wetlands",Stable,Mammals,"Central America, North America"
+Animal,Radjah Shelduck,"Oceans and Coastline, Rivers and Lakes, Temperate Forest and Taiga, Wetlands",Stable,Birds,Australia and New Zealand
+Animal,Rattlesnake,"Desert, Island, Mountains, Prairie and Steppes, Savanna, Scrubland, Wetlands",Some Endangered,Reptiles,"North America, South America"
+Animal,Red Panda,"Temperate Forest and Taiga, Tropical Rainforest",Endangered,Mammals,Asia
+Animal,Red-tailed Hawk,"Desert, Prairie and Steppes, Temperate Forest and Taiga, Tropical Rainforest",Stable,Birds,"Central America, North America"
+Animal,Reindeer (Caribou),"Mountains, Temperate Forest and Taiga, Tundra",Stable,Mammals,"Asia, Europe, North America"
+Animal,Rhinoceros,"Savanna, Tropical Rainforest, Wetlands",Some Endangered,Mammals,"Africa, Asia"
+Animal,Ringtail,"Desert, Mountains",Some Threatened,Mammals,North America
+Animal,Ringtail Possum,"Oceans and Coastline, Temperate Forest and Taiga, Tropical Rainforest",Stable,Mammals,Australia and New Zealand
+Animal,Rock Hyrax,"Desert, Savanna, Scrubland",Stable,Mammals,"Africa, Middle East"
+Animal,Rodrigues Flying Fox,Tropical Rainforest,Endangered,Mammals,Africa
+Animal,Saiga,"Prairie and Steppes, Savanna, Scrubland",Endangered,Mammals,"Asia, Europe"
+Animal,Salamander and Newt,"Mountains, Prairie and Steppes, Rivers and Lakes, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Amphibians,"Africa, Asia, Central America, Europe, North America, South America"
+Animal,Scorpion,"Desert, Island, Mountains, Prairie and Steppes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Arachnids,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, Pacific Islands, South America"
+Animal,Sea Lion,Oceans and Coastline,Some Endangered,Mammals,"Asia, Australia and New Zealand, North America, Pacific Islands, South America"
+Animal,Secretary Bird,"Prairie and Steppes, Savanna, Temperate Forest and Taiga",Stable,Birds,"Africa, Asia"
+Animal,Serval,Savanna,Some Endangered,Mammals,Africa
+Animal,Shoebill,"Rivers and Lakes, Wetlands",Threatened,Birds,Africa
+Animal,Siamang,Tropical Rainforest,Endangered,Mammals,Asia
+Animal,Singing Dog,"Mountains, Tropical Rainforest",Threatened,Mammals,Pacific Islands
+Animal,Slender-snouted Crocodile,"Oceans and Coastline, Rivers and Lakes",Endangered,Reptiles,Africa
+Animal,Sloth Bear,"Savanna, Scrubland, Tropical Rainforest",Threatened,Mammals,Asia
+Animal,Small Cat,"Desert, Tundra, Mountains, Tropical Rainforest",Some Endangered,Mammals,"Africa, Asia, Central America, Europe, Middle East, North America, South America"
+Animal,Snake,"Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Reptiles,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Snow Leopard,Mountains,Threatened,Mammals,Asia
+Animal,Sociable Weaver,"Desert, Savanna",Stable,Birds,Africa
+Animal,Somali Wild Ass,Desert,Endangered,Mammals,Africa
+Animal,Southern Cassowary,"Rivers and Lakes, Tropical Rainforest, Wetlands",Some Threatened,Birds,Australia and New Zealand
+Animal,Spider,"Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Tundra, Wetlands",Some Endangered,Arachnids,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Spiral-horned Antelope,"Savanna, Scrubland",Some Threatened,Mammals,Africa
+Animal,Spotted Hyena,"Mountains, Savanna, Scrubland, Temperate Forest and Taiga, Wetlands",Stable,Mammals,Africa
+Animal,Steller's Sea-eagle,"Oceans and Coastline, Rivers and Lakes",Threatened,Birds,"Asia, Europe"
+Animal,Stick Insect,"Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Insects,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Stork,"Savanna, Tropical Rainforest, Wetlands",Some Endangered,Birds,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Animal,Striped Hyena,"Prairie and Steppes, Scrubland",Some Endangered,Mammals,"Africa, Asia, Middle East"
+Animal,Striped Skunk,"Island, Mountains, Prairie and Steppes, Rivers and Lakes, Temperate Forest and Taiga, Wetlands",Stable,Mammals,"North America, South America"
+Animal,Sugar Glider,"Tropical Rainforest, Wetlands",Threatened,Mammals,Australia and New Zealand
+Animal,Sun Bear,Tropical Rainforest,Threatened,Mammals,Asia
+Animal,Surinam Toad,Tropical Rainforest,Stable,Amphibians,South America
+Animal,Takin,Temperate Forest and Taiga,Threatened,Mammals,Asia
+Animal,Tamandua or Lesser Anteater,"Savanna, Scrubland, Tropical Rainforest",Stable,Mammals,"Central America, North America, South America"
+Animal,Tapir,"Wetlands, Temperate Forest and Taiga, Savanna, Tropical Rainforest",Some Endangered,Mammals,"Asia, Central America, North America, South America"
+Animal,Tarantula,"Desert, Scrubland, Tropical Rainforest",Some Endangered,Arachnids,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, South America"
+Animal,Tasmanian Devil,"Scrubland, Temperate Forest and Taiga",Endangered,Mammals,Australia and New Zealand
+Animal,Tawny Frogmouth,"Savanna, Temperate Forest and Taiga",Stable,Birds,Australia and New Zealand
+Animal,Tenrec,"Island, Scrubland, Wetlands",Stable,Mammals,Africa
+Animal,Thick-billed Parrot,Temperate Forest and Taiga,Endangered,Birds,Central America
+Animal,Tiger,"Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Endangered,Mammals,Asia
+Animal,Toucan,Tropical Rainforest,Some Endangered,Birds,"Central America, South America"
+Animal,Tree Pangolin,Tropical Rainforest,Threatened,Mammals,Africa
+Animal,Tuatara,"Island, Scrubland",Some Threatened,Reptiles,Australia and New Zealand
+Animal,Turtle and Tortoise,"Desert, Island, Mountains, Oceans and Coastline, Prairie and Steppes, Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Reptiles,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, North America, South America"
+Animal,Two-toed Sloth,Tropical Rainforest,Stable,Mammals,"Central America, South America"
+Animal,Vervet Monkey,"Desert, Rivers and Lakes, Savanna, Temperate Forest and Taiga",Stable,Mammals,Africa
+Animal,Vulture,"Mountains, Savanna",Some Endangered,Birds,"Africa, Asia, Europe, North America, South America"
+Animal,Warthog,Savanna,Stable,Mammals,Africa
+Animal,Waxbill,"Savanna, Scrubland",Stable,Birds,Africa
+Animal,West African Lungfish,Rivers and Lakes,Stable,Sarcopterygii,Africa
+Animal,White Rhinoceros,"Savanna, Scrubland",Endangered,Mammals,Africa
+Animal,Wild Cattle,"Island, Prairie and Steppes, Rivers and Lakes, Savanna, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Mammals,"Africa, Asia, Europe, North America"
+Animal,Wild Swine (Pig and Hog),"Rivers and Lakes, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Mammals,"Africa, Asia, Europe"
+Animal,Wolf,"Temperate Forest and Taiga, Mountains, Tundra, Desert",Some Endangered,Mammals,"Asia, Europe, North America"
+Animal,Woma Python,"Desert, Savanna",Stable,Reptiles,Australia and New Zealand
+Animal,Wombat,"Savanna, Temperate Forest and Taiga",Some Endangered,Mammals,Australia and New Zealand
+Animal,Zebra,Savanna,Some Endangered,Mammals,Africa
+Animal,‘Alalā (Hawaiian crow),"Island, Mountains",Endangered,Birds,Pacific Islands
+Plant,Acacia,"Desert, Oceans and Coastline, Savanna, Scrubland, Wetlands",Some Endangered,Magnoliopsida,"Africa, Asia, Australia and New Zealand, Central America, Middle East, North America, Pacific Islands, South America"
+Plant,African Protea,"Mountains, Oceans and Coastline, Scrubland",Some Endangered,Equisetopsida,Africa
+Plant,African Tulip Tree,Tropical Rainforest,Stable,Magnoliopsida,Africa
+Plant,Agave,"Desert, Island, Scrubland",Some Endangered,Liliopsida,"Caribbean, Central America, North America, South America"
+Plant,Aloe,"Desert, Island, Scrubland",Some Endangered,Liliopsida,"Africa, Middle East"
+Plant,"Alula, Cabbage on a Stick",Island,Endangered,Magnoliopsida,Pacific Islands
+Plant,American Pitcher Plant,Wetlands,Some Endangered,Magnoliopsida,North America
+Plant,Australian Flame Tree,Tropical Rainforest,Stable,Magnoliopsida,Australia and New Zealand
+Plant,Bamboo,"Island, Mountains, Temperate Forest and Taiga",Some Threatened,Liliopsida,"Africa, Asia, Central America, Pacific Islands, South America"
+Plant,Banana,"Island, Mountains, Oceans and Coastline, Temperate Forest and Taiga, Tropical Rainforest",Stable,Liliopsida,"Africa, Asia, Caribbean, Central America, Pacific Islands, South America"
+Plant,Baobab,"Savanna, Scrubland",Some Endangered,Magnoliopsida,"Africa, Australia and New Zealand"
+Plant,Beach Salvia,Oceans and Coastline,,Magnoliopsida,Africa
+Plant,Bird's-nest Fern,"Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Pteridopsida,"Africa, Asia, Australia and New Zealand, Caribbean, North America, Pacific Islands, South America"
+Plant,Bird-of-paradise (Plant),Oceans and Coastline,Some Threatened,Liliopsida,Africa
+Plant,Blue Porterweed,"Oceans and Coastline, Savanna, Scrubland, Wetlands",,Magnoliopsida,"Caribbean, Central America, North America, South America"
+Plant,Bonsai,Temperate Forest and Taiga,,,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Plant,Boojum Tree,Desert,Threatened,Magnoliopsida,North America
+Plant,Bottlebrush,"Scrubland, Wetlands",Stable,Magnoliopsida,Australia and New Zealand
+Plant,Bromeliad,"Desert, Island, Mountains, Tropical Rainforest, Wetlands",Some Endangered,Liliopsida,"Caribbean, Central America, North America"
+Plant,Cacao,Tropical Rainforest,,Magnoliopsida,"Central America, North America, South America"
+Plant,Cactus,"Desert, Scrubland, Tropical Rainforest",Some Endangered,Magnoliopsida,"Africa, Central America, North America, South America"
+Plant,California Fan Palm,"Desert, Scrubland",Stable,Liliopsida,North America
+Plant,California Juniper,"Desert, Mountains, Scrubland",Stable,Conifers,North America
+Plant,Calla Lily,"Rivers and Lakes, Wetlands",Stable,Liliopsida,Africa
+Plant,Cape Chestnut,Temperate Forest and Taiga,Stable,Magnoliopsida,Africa
+Plant,Cape Honeysuckle,"Oceans and Coastline, Scrubland",Stable,Magnoliopsida,Africa
+Plant,Cape Rush,"Oceans and Coastline, Wetlands",Stable,Liliopsida,Africa
+Plant,Cattail,"Rivers and Lakes, Wetlands",,Liliopsida,"Africa, Asia, Caribbean, Central America, Europe, Middle East, North America"
+Plant,Chinese Silver Grass,"Mountains, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Stable,Liliopsida,Asia
+Plant,Conifer,"Mountains, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Conifers,"Asia, Australia and New Zealand, Europe, North America"
+Plant,Crape Myrtle,"Island, Temperate Forest and Taiga, Tropical Rainforest",,Magnoliopsida,Asia
+Plant,Cycad,"Island, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Cycadopsida,"Africa, Asia, Australia and New Zealand, North America"
+Plant,Date Palm,Desert,Stable,Liliopsida,Middle East
+Plant,Dragon Tree,Oceans and Coastline,Threatened,Liliopsida,"Africa, Europe"
+Plant,"Dragonfruit (Pitahaya, Pitaya)","Desert, Scrubland, Tropical Rainforest",Some Endangered,Magnoliopsida,"Central America, North America, South America"
+Plant,Dudleya,"Desert, Mountains, Oceans and Coastline, Scrubland",Some Endangered,Magnoliopsida,"Central America, North America"
+Plant,Epiphyllum,Tropical Rainforest,Some Endangered,Magnoliopsida,"Central America, South America"
+Plant,Eucalypt,"Desert, Island, Mountains, Oceans and Coastline, Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Magnoliopsida,"Asia, Australia and New Zealand, Pacific Islands"
+Plant,Euphorbias,"Desert, Island, Oceans and Coastline, Savanna, Scrubland, Tropical Rainforest, Wetlands",Some Endangered,Magnoliopsida,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, North America, South America"
+Plant,Ficus (Fig),"Mountains, Rivers and Lakes, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Magnoliopsida,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Plant,Fishtail Palm,"Island, Tropical Rainforest",Stable,Liliopsida,"Asia, Australia and New Zealand, Pacific Islands"
+Plant,Flame Vine,Scrubland,Stable,Magnoliopsida,South America
+Plant,Flannelbush,"Mountains, Scrubland",Some Endangered,Magnoliopsida,North America
+Plant,Floss Silk Tree,"Scrubland, Tropical Rainforest",Stable,Magnoliopsida,South America
+Plant,Fuchsia,"Oceans and Coastline, Temperate Forest and Taiga",Some Threatened,Magnoliopsida,"Caribbean, Central America, Europe, Pacific Islands, South America"
+Plant,Geranium (Pelargonium),"Oceans and Coastline, Scrubland",Stable,Magnoliopsida,"Africa, Australia and New Zealand, Middle East"
+Plant,Ginger,Tropical Rainforest,Some Endangered,Liliopsida,"Africa, Asia, Caribbean, Central America, South America"
+Plant,Heavenly Bamboo,"Temperate Forest and Taiga, Tropical Rainforest",,Magnoliopsida,Asia
+Plant,Hibiscus,"Island, Oceans and Coastline, Wetlands",Some Endangered,Magnoliopsida,"Africa, Asia, North America, Pacific Islands"
+Plant,Horsetail Reed,"Rivers and Lakes, Wetlands",Stable,Polypodiospida,"Asia, Europe, North America"
+Plant,Howea Palm (Kentia Palm),Island,Threatened,Liliopsida,Australia and New Zealand
+Plant,Impatiens,"Rivers and Lakes, Tropical Rainforest, Wetlands",Stable,Magnoliopsida,Africa
+Plant,Jacaranda,"Mountains, Savanna, Scrubland",Threatened,Magnoliopsida,South America
+Plant,Japanese Wisteria,Temperate Forest and Taiga,,Magnoliopsida,Asia
+Plant,Kangaroo Paw,"Scrubland, Temperate Forest and Taiga",,Liliopsida,Australia and New Zealand
+Plant,Lavender,"Mountains, Oceans and Coastline, Scrubland, Temperate Forest and Taiga",Stable,Magnoliopsida,"Africa, Asia, Europe, North America"
+Plant,Lion’s Tail (Lion’s Ear),"Oceans and Coastline, Savanna",,Magnoliopsida,Africa
+Plant,Maidenhair Fern,"Rivers and Lakes, Temperate Forest and Taiga, Tropical Rainforest",Stable,Pteridopsida,"Asia, Australia and New Zealand, Central America, North America, South America"
+Plant,Maple,Temperate Forest and Taiga,Some Endangered,Magnoliopsida,"Africa, Asia, Europe, North America"
+Plant,Matilija Poppy,Scrubland,Stable,Magnoliopsida,North America
+Plant,Milkweed,"Desert, Mountains, Oceans and Coastline, Savanna, Scrubland, Temperate Forest and Taiga, Wetlands",Some Threatened,Magnoliopsida,"Africa, Central America, North America, South America"
+Plant,Monkey Flower,"Scrubland, Temperate Forest and Taiga",Stable,Magnoliopsida,"Africa, Asia, North America"
+Plant,New Zealand Christmas Tree,"Island, Oceans and Coastline",Stable,Magnoliopsida,Pacific Islands
+Plant,Oak,"Desert, Mountains, Scrubland, Temperate Forest and Taiga, Wetlands",Some Endangered,Magnoliopsida,"Africa, Asia, Central America, Europe, North America"
+Plant,Ocotillo,Desert,Some Endangered,Magnoliopsida,"Central America, North America"
+Plant,Orange Clock Vine,"Savanna, Tropical Rainforest",Stable,Magnoliopsida,Africa
+Plant,Orchid,"Island, Mountains, Rivers and Lakes, Temperate Forest and Taiga, Tropical Rainforest, Wetlands",Some Endangered,Liliopsida,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, Europe, Middle East, North America, Pacific Islands, South America"
+Plant,Orchid Tree,"Island, Tropical Rainforest",Some Endangered,Magnoliopsida,"Africa, Asia, Australia and New Zealand, Caribbean, Central America, South America"
+Plant,Palm,"Desert, Island, Oceans and Coastline, Rivers and Lakes, Temperate Forest and Taiga, Wetlands",Some Endangered,Liliopsida,"Africa, Asia, Caribbean, Central America, Middle East, North America, Pacific Islands, South America"
+Plant,Paperbark Tree,"Oceans and Coastline, Wetlands",Stable,Magnoliopsida,Australia and New Zealand
+Plant,Papyrus,"Rivers and Lakes, Wetlands",Stable,Liliopsida,Africa
+Plant,Passion Vine,"Mountains, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Magnoliopsida,"Central America, North America, South America"
+Plant,Pentas,Mountains,Stable,Magnoliopsida,"Africa, Middle East"
+Plant,Pindo Palm (Jelly Palm),"Oceans and Coastline, Savanna",Stable,Liliopsida,South America
+Plant,Pink Trumpet Tree,Temperate Forest and Taiga,Stable,Asterids,"Central America, North America, South America"
+Plant,Plumeria (Frangipani),"Island, Scrubland",,Magnoliopsida,"Caribbean, Central America, South America"
+Plant,Pomegranate,"Scrubland, Temperate Forest and Taiga",Stable,Magnoliopsida,"Asia, Middle East"
+Plant,Ponytail Palm,"Desert, Temperate Forest and Taiga",Some Threatened,Liliopsida,"Central America, North America"
+Plant,Prickly Pear Cactus,"Desert, Island, Scrubland",Some Endangered,Magnoliopsida,"Central America, North America, South America"
+Plant,Pumpkin,"Savanna, Scrubland, Temperate Forest and Taiga, Tropical Rainforest",Stable,Magnoliopsida,"Central America, North America, South America"
+Plant,Queensland Umbrella Tree,Tropical Rainforest,Stable,Magnoliopsida,"Australia and New Zealand, Pacific Islands"
+Plant,Reed Grass,"Rivers and Lakes, Savanna, Temperate Forest and Taiga",Stable,Liliopsida,"Asia, Europe"
+Plant,Rosemary,"Oceans and Coastline, Scrubland, Temperate Forest and Taiga",Stable,Magnoliopsida,"Africa, Asia, Europe"
+Plant,Sage,"Oceans and Coastline, Scrubland, Temperate Forest and Taiga",Stable,Magnoliopsida,"Africa, Asia, Australia and New Zealand, Europe, North America"
+Plant,Sausage Tree,"Rivers and Lakes, Tropical Rainforest",Stable,Asterids,Africa
+Plant,Sea Lavender,Oceans and Coastline,Some Endangered,Magnoliopsida,"Africa, Asia, Europe, Middle East, North America"
+Plant,Staghorn Fern,"Temperate Forest and Taiga, Tropical Rainforest",Stable,Pteridopsida,"Asia, Australia and New Zealand"
+Plant,Sugarcane,"Temperate Forest and Taiga, Tropical Rainforest, Wetlands",,Liliopsida,Asia
+Plant,Sundew,Wetlands,Some Endangered,Magnoliopsida,"Africa, Asia, Australia and New Zealand, Europe, North America, South America"
+Plant,Sweet Basil,"Temperate Forest and Taiga, Tropical Rainforest",Stable,Magnoliopsida,"Africa, Asia, Europe, Middle East, North America"
+Plant,Tree Fern,"Temperate Forest and Taiga, Tropical Rainforest",Some Endangered,Pteridopsida,"Africa, Asia, Australia and New Zealand, Caribbean, Pacific Islands, South America"
+Plant,Tropical Pitcher Plant,Tropical Rainforest,Some Endangered,Magnoliopsida,"Africa, Asia, Australia and New Zealand"
+Plant,Venus Flytrap,Wetlands,Endangered,Magnoliopsida,North America
+Plant,Western Sword Fern,"Mountains, Temperate Forest and Taiga",Stable,Pteridopsida,North America
+Plant,Wild Buckwheat,"Desert, Island, Mountains, Scrubland",Stable,Magnoliopsida,North America
+Plant,Wood Fern,"Temperate Forest and Taiga, Wetlands",Some Threatened,Pteridopsida,"Africa, Asia, Europe, North America"
+Plant,Woolly Blue Curls,Scrubland,Stable,Magnoliopsida,North America
+Plant,Yellow Bells,"Island, Scrubland",,Magnoliopsida,"Caribbean, Central America, North America, South America"
+Plant,Yucca,"Desert, Scrubland",Some Threatened,Liliopsida,"Central America, North America"
